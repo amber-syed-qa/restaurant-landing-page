@@ -21,3 +21,26 @@ A responsive, single-page restaurant website with a clean layout and interactive
 - JavaScript (ES6)
 
 ## 📁 Project Structure
+
+## 🚀 Getting Started
+
+1. Clone the repository
+   ```bash
+   git clone https://github.com/amber-syed-qa/restaurant-landing-page.git
+   ```
+2. Open the folder
+   ```bash
+   cd restaurant-landing-page
+   ```
+3. Open `index.html` in your browser
+
+No installation or build step needed.
+
+## 🖼️ Credits
+
+Images are from [Unsplash](https://unsplash.com).
+
+## 👩‍💻 Author
+
+**Amber Syed**
+[LinkedIn](https://linkedin.com/in/amber-syed-9a2532208) · [GitHub](https://github.com/amber-syed-qa)
